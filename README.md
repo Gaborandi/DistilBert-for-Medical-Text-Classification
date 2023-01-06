@@ -1,7 +1,7 @@
 # DistilBert-for-Medical-Text-Classification
 DistilBert is finetuned on pubmed data and used for text classification
 
-in this totturial , i used a clead data from pubmed includes medical text about Hepatits
+in this totturial , i used a clean data from pubmed includes medical text about Hepatits
 
 the labels indicates either it includes hepatitis information so it would be 1 or not so it would be 0
 
