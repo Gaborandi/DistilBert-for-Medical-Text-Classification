@@ -1,5 +1,7 @@
 # DistilBert-for-Medical-Text-Classification
 
+distilbert is smaller version of BERT model
+
 this DistilBert model is finetuned on pubmed data and used for text classification. 
 
 in this tutorial , i used a clean data from pubmed includes medical text about Hepatits
