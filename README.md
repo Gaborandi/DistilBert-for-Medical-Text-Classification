@@ -1,6 +1,6 @@
 # DistilBert-for-Medical-Text-Classification
 
-distilbert is smaller version of BERT model
+distilbert is smaller version of BERT model (less parameters)
 
 this DistilBert model is finetuned on pubmed data and used for text classification. 
 
